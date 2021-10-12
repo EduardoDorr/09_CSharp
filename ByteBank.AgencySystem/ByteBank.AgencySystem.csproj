@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1_TryStreamDirect.cs" />
+    <Compile Include="2_ UsingStreamReader.cs" />
+    <Compile Include="3_CreatingFile.cs" />
+    <Compile Include="4_StreamBinary.cs" />
+    <Compile Include="5_UsingInletStream.cs" />
     <Compile Include="CheckingAccountList.cs" />
     <Compile Include="Extensions\ListExtensions.cs" />
     <Compile Include="ObjectList.cs" />
